@@ -8,7 +8,7 @@ namespace Proyecto_Unidad_3
 {
     internal static class Program
     {
-        [STAThread]
+        [STAThread] //Prueba
         static void Main()
         {
             Application.EnableVisualStyles();
